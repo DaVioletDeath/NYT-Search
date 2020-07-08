@@ -1,11 +1,9 @@
 #searchTerm {
-    float: right;
+    float: left;
     margin-left: auto;
     background-color: white;
     fill: white;
+
 }
 
-.row {
-    color: black;
-    float: none;
-}
+
